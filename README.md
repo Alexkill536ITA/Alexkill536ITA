@@ -35,12 +35,12 @@ I build web applications end to end — from the interface down to deployment �
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Stats
 
 <div data-importer="stats" align="center">
-  
-  <img src="https://raw.githubusercontent.com/Alexkill536ITA/Alexkill536ITA/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Alexkill536ITA/Alexkill536ITA/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Alexkill536ITA&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
+
+  <img src="https://raw.githubusercontent.com/Alexkill536ITA/Alexkill536ITA/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/Alexkill536ITA/Alexkill536ITA/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Alexkill536ITA&locale=en&mode=daily&hide_border=true&border_radius=5&background=0B0E14&stroke=1C222B&ring=E6B450&fire=E6B450&currStreakNum=BFBDB6&currStreakLabel=39BAE6&sideNums=BFBDB6&sideLabels=39BAE6&dates=8A8986" height="150" alt="streak graph" />
+
 </div>
