@@ -26,7 +26,6 @@ I build web applications end to end — from the interface down to deployment �
 ### 🛠️ Tech Stack
 
 |  |  |
-|:--|:--|
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,rust,c,cpp,bash&theme=dark" alt="languages" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap,html,css&theme=dark" alt="frontend" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,sqlite&theme=dark" alt="backend" /> |
