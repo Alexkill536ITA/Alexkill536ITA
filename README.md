@@ -14,11 +14,12 @@
 
 ### 👨‍💻 About me
 
-I build web applications end to end — from the interface down to deployment — and I like exploring the edges: game rendering, hardware, and systems programming.
+Hey, I'm **Alessandro** — aka **Alexkill536ITA**. A full-stack developer who ships applications end to end and can't resist taking new tech apart to see how it ticks. My projects roam from the browser all the way down to the metal: real-time rendering on one end, ESP32/Arduino control firmware on the other.
 
 - 🌐 All of my work lives at **[alexkill.hosting.fabioguidotti.it](https://alexkill.hosting.fabioguidotti.it/)**
 - 🔧 Currently building **[ForgeModpack](https://github.com/Alexkill536ITA/ForgeModpack)** — a desktop app to manage Minecraft modpack dependencies & config (TypeScript)
-- ⚙️ Comfortable across the stack — React/Next on the front, Node & Python on the back, Docker & Kubernetes to ship
+- 🧠 Lately diving into **local AI inference** — running models on my own hardware, no cloud required
+- ⚙️ Comfortable across the stack — React/Next up front, Node & Python behind, Docker & Kubernetes to ship
 - 📫 Reach me on **[GitHub](https://github.com/Alexkill536ITA)**
 
 ---
