@@ -37,12 +37,12 @@ I build web applications end to end — from the interface down to deployment �
 
 ### 📊 GitHub Metrics
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexkill536ITA&hide_border=true&background=0B0E14&stroke=1C222B&ring=E6B450&fire=E6B450&currStreakNum=BFBDB6&sideNums=BFBDB6&currStreakLabel=39BAE6&sideLabels=39BAE6&dates=8A8986" alt="GitHub streak" />
-
-<img src="./github-metrics.svg" alt="GitHub metrics" />
-
+<div data-importer="stats" align="center">
+  
+  <img src="https://raw.githubusercontent.com/Alexkill536ITA/Alexkill536ITA/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Alexkill536ITA/Alexkill536ITA/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alexkill536ITA&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
 </div>
 
 <sub>Generato ogni 6 ore da <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> via GitHub Actions — nessun servizio esterno live.</sub>
