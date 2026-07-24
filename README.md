@@ -39,6 +39,8 @@ I build web applications end to end â€” from the interface down to deployment â€
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexkill536ITA&hide_border=true&background=0B0E14&stroke=1C222B&ring=E6B450&fire=E6B450&currStreakNum=BFBDB6&sideNums=BFBDB6&currStreakLabel=39BAE6&sideLabels=39BAE6&dates=8A8986" alt="GitHub streak" />
+
 <img src="./github-metrics.svg" alt="GitHub metrics" />
 
 </div>
