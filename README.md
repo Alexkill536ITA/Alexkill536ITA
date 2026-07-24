@@ -44,5 +44,3 @@ I build web applications end to end — from the interface down to deployment �
   <img src="https://streak-stats.demolab.com?user=Alexkill536ITA&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   
 </div>
-
-<sub>Generato ogni 6 ore da <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> via GitHub Actions — nessun servizio esterno live.</sub>
