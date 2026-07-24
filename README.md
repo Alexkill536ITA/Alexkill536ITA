@@ -35,15 +35,12 @@ I build web applications end to end — from the interface down to deployment �
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alexkill536ITA&show_icons=true&hide_border=true&bg_color=0B0E14&title_color=E6B450&icon_color=39BAE6&text_color=BFBDB6" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexkill536ITA&layout=compact&hide_border=true&bg_color=0B0E14&title_color=E6B450&text_color=BFBDB6&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexkill536ITA&hide_border=true&background=0B0E14&stroke=1C222B&ring=E6B450&fire=E6B450&currStreakNum=BFBDB6&sideNums=BFBDB6&currStreakLabel=39BAE6&sideLabels=39BAE6&dates=8A8986" alt="GitHub streak" />
+<img src="./github-metrics.svg" alt="GitHub metrics" />
 
 </div>
+
+<sub>Generato ogni 6 ore da <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> via GitHub Actions — nessun servizio esterno live.</sub>
