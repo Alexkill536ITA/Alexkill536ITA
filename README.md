@@ -17,7 +17,7 @@
 I build web applications end to end — from the interface down to deployment — and I like exploring the edges: game rendering, hardware, and systems programming.
 
 - 🌐 All of my work lives at **[alexkill.hosting.fabioguidotti.it](https://alexkill.hosting.fabioguidotti.it/)**
-- 🎮 Currently building an **Arknights chibi scene editor** with Next.js 16 & Spine WebGL
+- 🔧 Currently building **[ForgeModpack](https://github.com/Alexkill536ITA/ForgeModpack)** — a desktop app to manage Minecraft modpack dependencies & config (TypeScript)
 - ⚙️ Comfortable across the stack — React/Next on the front, Node & Python on the back, Docker & Kubernetes to ship
 - 📫 Reach me on **[GitHub](https://github.com/Alexkill536ITA)**
 
